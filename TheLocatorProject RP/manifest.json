@@ -1,0 +1,18 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "The Locator Project",
+    "description": "SOON",
+    "uuid": "95f561a8-f262-4a9e-bd18-057853837605",
+    "version": [1, 0, 0],
+    "min_engine_version": [1, 21, 20]
+  },
+  "modules": [
+    {
+      "description": "SOON",
+      "type": "resources",
+      "uuid": "c2dcdaab-4b4c-42c3-a4ee-abb10cb30497",
+      "version": [1, 0, 0]
+    }
+  ]
+}
